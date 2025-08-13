@@ -39,6 +39,17 @@ Trained on real Alexa feedback data, it provides instant predictions, confidence
 
 ---
 
+## 📈 Model Performance
+| Metric          | Score   |
+|-----------------|---------|
+| Train Accuracy  | 99.39%  |
+| Test Accuracy   | 94.19%  |
+| Precision       | 94.46%  |
+| Recall          | 99.51%  |
+| F1 Score        | 96.92%  |
+
+The model achieves **high recall** and **balanced precision**, making it reliable for detecting both positive and negative Alexa reviews.
+
 ## 🚀 Installation & Setup
 
 ### 1️⃣ Clone the repository
@@ -100,6 +111,3 @@ This model is trained on the **Amazon Alexa Reviews dataset**, which contains ve
 
 **Varsha Dewangan**
 🚀 Passionate about AI, Machine Learning, and Web Development
-
-
-```
