@@ -49,7 +49,7 @@ Trained on real Alexa feedback data, it provides instant predictions, confidence
 | F1 Score        | 96.92%  |
 
 The model achieves **high recall** and **balanced precision**, making it reliable for detecting both positive and negative Alexa reviews.
-
+---
 ## 🚀 Installation & Setup
 
 ### 1️⃣ Clone the repository
