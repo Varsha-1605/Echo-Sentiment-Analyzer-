@@ -1,5 +1,3 @@
-
-```markdown
 # 🎤 Alexa Reviews Sentiment Analysis
 
 An interactive **Streamlit** application that uses **Machine Learning** to classify Amazon Alexa reviews as **Positive** or **Negative**.  
